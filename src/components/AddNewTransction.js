@@ -5,6 +5,7 @@ import { GlobalContext } from "../Context/GlobalState";
 import "./AddNewTransction.css";
 
 export const AddNewTransction = () => {
+  console.log("jj");
   const { addTransction } = useContext(GlobalContext);
   const textRef = useRef();
   const amountRef = useRef();
