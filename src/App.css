@@ -1,0 +1,17 @@
+/** @format */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  display: grid;
+  place-items: center;
+}
+h1 {
+  margin: 20px 0;
+  color: blue;
+}
+.balance {
+  margin: 10px 0;
+}

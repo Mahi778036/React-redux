@@ -1,0 +1,32 @@
+/** @format */
+
+.addtransction {
+  margin: 10px 0;
+}
+.addtransction h3 {
+  padding: 10px 0;
+  border-bottom: 2px solid lightgray;
+}
+.form-item label {
+  display: block;
+  margin: 10px 0;
+  font-weight: bold;
+}
+.form-item input {
+  border: 1px solid lightgray;
+  padding: 5px;
+  width: 100%;
+  background-color: #f9f9f9;
+}
+.form-item input:focus {
+  outline: none;
+}
+.add-trasction-btn {
+  margin: 10px 0;
+  background-color: rgb(32, 176, 224);
+  width: 100%;
+  padding: 7px;
+  border: none;
+  color: #f9f9f9;
+  font-weight: bold;
+}
